@@ -46,7 +46,7 @@ h2 {
 
 header {
     width: 100%;
-    background-color: #aab7c4;
+    background-color: #bac7d4;
 }
 
 header nav {
@@ -72,7 +72,7 @@ nav ul {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #aab7c4;
+    background-color: #bac7d4;
     padding: 1rem;
     margin: 0;
 }
